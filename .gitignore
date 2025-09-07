@@ -1,0 +1,16 @@
+# APK файлы не коммитим - только через GitHub Releases
+*.apk
+*.aab
+
+# Временные файлы
+*.tmp
+*.bak
+*~
+
+# Локальные заметки
+local/
+notes.txt
+
+# Локальные инструкции (не для публичного репозитория)
+CREATE_RELEASE.md
+STRUCTURE.md
